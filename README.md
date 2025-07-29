@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishna1boy
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning python
-- 📫 How to reach me +919102743179
+- 📫 reach me @ +919102743179
+- AI-ML and Web Dev projects
 
 <!---
 Krishna1boy/Krishna1boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
